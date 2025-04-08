@@ -1,0 +1,5 @@
+I want you to summarize this transcription. Summarize each to be personal to each person as if they are ones doing it also keep in mind the pictures or inter that need to be seen/referenced.  For context, this is about 4 way skydiving. There are 4 positions, Outside Center (OC), Inside Center (IC), Point (P), and Tail (T). I want you to give me a summary of the key points for each position, in a bulleted list and point out the constraints, what pictures or inters should to referenced or looking for.
+
+- Each summary for each slot, should have a build, execution section, as well as potentially a constraint, and Advanced Tip section. 
+- Spell out Point and Tail. Its okay to abbreviate OC, and IC.
+- Any training tips
